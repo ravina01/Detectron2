@@ -31,3 +31,4 @@
 # See https://detectron2.readthedocs.io/tutorials/install.html for full installation instructions
 !git clone 'https://github.com/facebookresearch/detectron2'
 ```
+
