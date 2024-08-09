@@ -17,7 +17,7 @@
 
 ![image](https://github.com/user-attachments/assets/795030bc-7969-485e-be61-99fd7f6690ee)
 
-#### Whats panoptic segmentation ?
+#### What's panoptic segmentation ?
 - Its combines semantic segmentation + instance segmentation to provide a comprehensive understanding of the scene.
 - Use case - Autonomous Driving tasks
   
@@ -31,4 +31,7 @@
 # See https://detectron2.readthedocs.io/tutorials/install.html for full installation instructions
 !git clone 'https://github.com/facebookresearch/detectron2'
 ```
+
+
+
 
