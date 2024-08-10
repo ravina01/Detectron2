@@ -32,6 +32,24 @@
 !git clone 'https://github.com/facebookresearch/detectron2'
 ```
 
+## Fine tuning Detectron2 for instance segmentation using custom data
+---
+
+Data Sets -
+Data annotated for 4 classes:
+1: Cell
+2: Mitochondria​
+3: Alpha granule​
+4: Canalicular vessel​
+
+Annotations were done using Makesense: https://www.makesense.ai/
+
+Dataset from: https://leapmanlab.github.io/dense-cell/
+
+coco-style json format annotations
+
+![image](https://github.com/user-attachments/assets/2e8999a6-d2c1-432f-ad7e-2ea97200e148)
+
 
 
 
